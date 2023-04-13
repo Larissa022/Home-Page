@@ -11,7 +11,7 @@ img {
     width: 500px;
     height: 280px;
     top: 50%;
-    margin-left: 400px;
+    margin: center;
 }
 #topo{
     background-color: #29B6F6;
